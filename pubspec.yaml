@@ -5,7 +5,7 @@ repository: https://github.com/gabrimatic/restart_app
 issue_tracker: https://github.com/gabrimatic/restart_app/issues
 
 environment:
-  sdk: ^3.5.1
+  sdk: ">=3.4.4 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
